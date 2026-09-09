@@ -1,6 +1,6 @@
 <#
 .SYNOPSIS
-    When the system resumes from sleep the user must be promted for a password.
+    Default autorun behavior must be configured to prevent autorun commands.
 
 .NOTES
     Author          : Chris Eben
